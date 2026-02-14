@@ -1,16 +1,60 @@
-## Hi there 👋
+# Everton Barão  
+Automation & Integration Engineer  
 
-<!--
-**BaraoEverton/BaraoEverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designing production-grade automation systems  
+with AI-driven orchestration and structured data pipelines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Stack
+n8n • Java Script • OpenAI • GAS • REST APIs • VPS • Postgres • Python
+
+---
+
+## 🏗 Systems
+🔹 Data Preprocessing Layer  
+State tracking • Idempotency • Deterministic tokens  
+
+🔹 Delivery Orchestration Layer  
+API routing • Retry logic • WhatsApp automation  
+
+---
+
+## 🌍 Infrastructure
+Self-hosted VPS • Reverse proxy • Containerized workflows  
+
+---
+
+## 🎯 Focus
+AI Workflows | Integration Architecture | Automation Systems
+
+
+---
+
+## What I Build
+
+• Incremental ETL pipelines (Google Apps Script)  
+• Self-hosted workflow orchestration (n8n)  
+• API-based communication systems  
+• WhatsApp automation environments  
+• AI decision layers using structured outputs  
+
+---
+
+## Hands-on experience with:
+
+- VPS deployment (Linux environments)
+- Reverse proxy configuration
+- Container-based services
+- API exposure & webhook management
+- Production troubleshooting
+- Modular workflow design  
+
+---
+
+## Advancing toward:
+
+AI-centric automation systems  
+Scalable integration architecture  
+Production-grade backend workflows
+Data-driven insight extraction from platform APIs
