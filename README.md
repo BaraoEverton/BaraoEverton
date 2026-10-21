@@ -15,6 +15,7 @@ n8n • Java Script • OpenAI • GAS • REST APIs • VPS • Postgres • Py
 
 • [Vita — AI Receptionist on WhatsApp 🔗](https://github.com/BaraoEverton/ai-conversational-systems/tree/main/vita-ai-receptionist) · 🟢 in production<br>
 Multi-agent orchestration • Deterministic scheduling rules • Multimodal intake • Human handoff • Self-hosted
+▶️ [Demo video](https://www.youtube.com/watch?v=VJTlh0OVKQI)
 
 • [Data Preprocessing Layer 🔗](https://github.com/BaraoEverton/automation/tree/main/online-assessment-preprocessing-gas)<br>
 State management • Idempotent processing • Deterministic token handling • Data ingestion
